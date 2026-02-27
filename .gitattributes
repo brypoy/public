@@ -1,2 +1,0 @@
-*.json filter=lfs diff=lfs merge=lfs -text
-cia_reading_room_scraper/outputs/cia_rdp96.json filter=lfs diff=lfs merge=lfs -text
