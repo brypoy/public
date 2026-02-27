@@ -1,0 +1,393 @@
+id,realtime_start,realtime_end,title,observation_start,observation_end,frequency,frequency_short,units,units_short,seasonal_adjustment,seasonal_adjustment_short,last_updated,popularity,group_popularity,notes
+POP,2025-12-12,2025-12-12,Total Population: All Ages including Armed Forces Overseas,1952-01-01,2025-12-01,Monthly,M,Thousands,Thous.,Not Seasonally Adjusted,NSA,2024-12-23 14:49:01-06,42,42,"The intercensal estimates for 1990-2000 for the United States population are produced by converting the 1990-2000 postcensal estimates prepared previously for the U. S. to account for differences between the postcensal estimates in 2000 and census counts (error of closure). The postcensal estimates for 1990 to 2000 were produced by updating the resident population enumerated in the 1990 census by estimates of the components of population change between April 1, 1990 and April 1, 2000-- births to U.S. resident women, deaths to U.S. residents, net international migration (incl legal & residual foreign born), and net movement of the U.S. armed forces and civilian citizens to the United States. Intercensal population estimates for 1990 to 2000 are derived from the postcensal estimates by distributing the error of closure over the decade by month. The method used for the 1990s for distributing the error of closure is the same that was used for the 1980s. This method produces an intercensal estimate as a function of time and the postcensal estimates,using the following formula: the population at time t is equal to the postcensal estimate at time t multiplied by a function. The function is the April 1, 2000 census count divided by the April 1, 2000 postcensal estimate raised to the power of t divided by 3653."
+POPTTLNOA148NRUG,2025-12-12,2025-12-12,Population for Norway,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:12-06,14,14,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLISA148NRUG,2025-12-12,2025-12-12,Population for Iceland,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:17-06,12,14,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLAMA148NRUG,2025-12-12,2025-12-12,Population for Armenia,1990-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:29:50-06,5,5,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLTWA173NUPN,2025-12-12,2025-12-12,Population for Taiwan,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:31:07-05,4,4,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLJPA148NRUG,2025-12-12,2025-12-12,Population for Japan,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:29:49-06,4,5,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLUSA148NRUG,2025-12-12,2025-12-12,Population for United States,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:28:34-06,4,5,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLCHA148NRUG,2025-12-12,2025-12-12,Population for Switzerland,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:20-06,4,4,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLOMA148NRUG,2025-12-12,2025-12-12,Population for Oman,1970-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:35:44-06,3,4,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLECA148NRUG,2025-12-12,2025-12-12,Population for Ecuador,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:19-06,3,4,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLBZA173NUPN,2025-12-12,2025-12-12,Population for Belize,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:23:54-05,3,3,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLATA173NUPN,2025-12-12,2025-12-12,Population for Austria,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:41:52-05,3,3,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLDEA148NRUG,2025-12-12,2025-12-12,Population for Germany,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:29:49-06,3,5,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLTWA148NRUG,2025-12-12,2025-12-12,Population for Taiwan Province of China,1951-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:28:34-06,3,3,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLSZA148NRUG,2025-12-12,2025-12-12,Population for Swaziland,1970-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:30:25-06,3,3,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLTZA173NUPN,2025-12-12,2025-12-12,Population for Tanzania,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:17:41-05,3,3,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLESA148NRUG,2025-12-12,2025-12-12,Population for Spain,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:19-06,3,3,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLCAA148NRUG,2025-12-12,2025-12-12,Population for Canada,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:29:35-06,3,3,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLBAA148NRUG,2025-12-12,2025-12-12,Population for Bosnia and Herzegovina,1990-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:21-06,3,3,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLSVA173NUPN,2025-12-12,2025-12-12,Population for El Salvador,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:41:48-05,3,3,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLINA173NUPN,2025-12-12,2025-12-12,Population for India,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:33:29-05,3,3,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLIDA173NUPN,2025-12-12,2025-12-12,Population for Indonesia,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:50:00-05,3,3,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLMYA173NUPN,2025-12-12,2025-12-12,Population for Malaysia,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:35:24-05,3,3,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLLVA173NUPN,2025-12-12,2025-12-12,Population for Latvia,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:42:52-05,3,3,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLCMA173NUPN,2025-12-12,2025-12-12,Population for Cameroon,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:29:41-05,3,3,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLLSA148NRUG,2025-12-12,2025-12-12,Population for Lesotho,1960-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:15-06,3,3,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLCNA173NUPN,2025-12-12,2025-12-12,Population for China,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:38:48-05,2,3,"This data series refers to China Version 1. Two estimates are provided for China and their rationale is discussed in the Detailed Documentation. One estimate is based mostly on ICP 2005 and national growth statistics and is labeled China1. China1 does incorporate a productivity adjustment that has been applied to all countries in ICP 2005. China2 also adjusts for the urban character of its prices in ICP 2005 and also adjusts the growth rate.
+
+For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLDOA173NUPN,2025-12-12,2025-12-12,Population for Dominican Republic,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:28:56-05,2,3,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLKHA148NRUG,2025-12-12,2025-12-12,Population for Cambodia,1970-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:16-06,2,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLPYA148NRUG,2025-12-12,2025-12-12,Population for Paraguay,1951-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:30:27-06,2,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLDEA173NUPN,2025-12-12,2025-12-12,Population for Germany,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:22:27-05,2,5,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLPEA148NRUG,2025-12-12,2025-12-12,Population for Peru,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:30:28-06,2,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLCUA173NUPN,2025-12-12,2025-12-12,Population for Cuba,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:22:13-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLBGA148NRUG,2025-12-12,2025-12-12,Population for Bulgaria,1970-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:21-06,2,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLKWA148NRUG,2025-12-12,2025-12-12,Population for Kuwait,1970-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:16-06,2,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLISA173NUPN,2025-12-12,2025-12-12,Population for Iceland,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:39:36-05,2,14,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLUGA173NUPN,2025-12-12,2025-12-12,Population for Uganda,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:19:29-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLCOA148NRUG,2025-12-12,2025-12-12,Population for Colombia,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:19-06,2,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLMOA173NUPN,2025-12-12,2025-12-12,Population for Macao,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:36:41-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLRSA173NUPN,2025-12-12,2025-12-12,Population for Serbia,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:25:41-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLBEA148NRUG,2025-12-12,2025-12-12,Population for Belgium,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:21-06,2,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLAUA148NRUG,2025-12-12,2025-12-12,Population for Australia,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:29:50-06,2,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLBDA148NRUG,2025-12-12,2025-12-12,Population for Bangladesh,1959-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:21-06,2,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLARA173NUPN,2025-12-12,2025-12-12,Population for Argentina,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:46:52-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLSCA173NUPN,2025-12-12,2025-12-12,Population for Seychelles,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:38:56-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLSRA173NUPN,2025-12-12,2025-12-12,Population for Suriname,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:48:21-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLCIA173NUPN,2025-12-12,2025-12-12,Population for Cote d`Ivoire,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:34:31-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLIEA173NUPN,2025-12-12,2025-12-12,Population for Ireland,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:34:14-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLAFA173NUPN,2025-12-12,2025-12-12,Population for Afghanistan,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:18:56-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLBOA173NUPN,2025-12-12,2025-12-12,Population for Bolivia,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:36:21-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLROA148NRUG,2025-12-12,2025-12-12,Population for Romania,1960-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:30:27-06,2,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLOMA173NUPN,2025-12-12,2025-12-12,Population for Oman,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:24:32-05,2,4,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLJPA173NUPN,2025-12-12,2025-12-12,Population for Japan,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:49:42-05,2,5,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLHTA173NUPN,2025-12-12,2025-12-12,Population for Haiti,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:42:51-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLUSA173NUPN,2025-12-12,2025-12-12,Population for United States,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:31:39-05,2,5,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLLUA148NRUG,2025-12-12,2025-12-12,Population for Luxembourg,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:15-06,2,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLPWA173NUPN,2025-12-12,2025-12-12,Population for Palau,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:19:15-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLHRA173NUPN,2025-12-12,2025-12-12,Population for Croatia,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:33:34-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLIQA148NRUG,2025-12-12,2025-12-12,Population for Iraq,1970-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:17-06,2,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLEGA173NUPN,2025-12-12,2025-12-12,Population for Egypt,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:19:40-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLBRA173NUPN,2025-12-12,2025-12-12,Population for Brazil,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:31:18-05,2,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLILA173NUPN,2025-12-12,2025-12-12,Population for Israel,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:24:59-05,1,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLKZA173NUPN,2025-12-12,2025-12-12,Population for Kazakhstan,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:46:50-05,1,1,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLGBA148NRUG,2025-12-12,2025-12-12,Population for United Kingdom,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:18-06,1,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLGYA173NUPN,2025-12-12,2025-12-12,Population for Guyana,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:24:55-05,1,1,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLALA173NUPN,2025-12-12,2025-12-12,Population for Albania,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:16:57-05,1,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLBIA148NRUG,2025-12-12,2025-12-12,Population for Burundi,1960-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:21-06,1,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLFRA148NRUG,2025-12-12,2025-12-12,Population for France,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:18-06,1,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLETA173NUPN,2025-12-12,2025-12-12,Population for Ethiopia,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:38:59-05,1,1,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLDZA173NUPN,2025-12-12,2025-12-12,Population for Algeria,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:26:54-05,1,1,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLSAA173NUPN,2025-12-12,2025-12-12,Population for Saudi Arabia,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:26:52-05,1,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLKEA148NRUG,2025-12-12,2025-12-12,Population for Kenya,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:16-06,1,1,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLFRA173NUPN,2025-12-12,2025-12-12,Population for France,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:43:43-05,1,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLCFA173NUPN,2025-12-12,2025-12-12,Population for Central African Republic,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:32:07-05,1,1,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLIRA173NUPN,2025-12-12,2025-12-12,Population for Iran,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:20:55-05,1,1,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLNZA148NRUG,2025-12-12,2025-12-12,Population for New Zealand,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:12-06,1,1,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLTNA148NRUG,2025-12-12,2025-12-12,Population for Tunisia,1960-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:30:25-06,1,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLLAA148NRUG,2025-12-12,2025-12-12,Population for Lao People's Democratic Republic,1970-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:15-06,1,1,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLBJA148NRUG,2025-12-12,2025-12-12,Population for Benin,1959-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:21-06,1,1,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLCDA148NRUG,2025-12-12,2025-12-12,Population for the Democratic Republic of the Congo,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:20-06,1,1,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLZMA148NRUG,2025-12-12,2025-12-12,Population for Zambia,1955-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:30:23-06,1,1,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLMZA173NUPN,2025-12-12,2025-12-12,Population for Mozambique,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:40:53-05,1,1,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLAMA173NUPN,2025-12-12,2025-12-12,Population for Armenia,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:32:28-05,1,5,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLVNA148NRUG,2025-12-12,2025-12-12,Population for Viet Nam,1970-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:30:24-06,1,1,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLDOA148NRUG,2025-12-12,2025-12-12,Population for Dominican Republic,1951-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:19-06,1,3,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLROA173NUPN,2025-12-12,2025-12-12,Population for Romania,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:47:09-05,1,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLJMA173NUPN,2025-12-12,2025-12-12,Population for Jamaica,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:47:10-05,1,1,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLBDA173NUPN,2025-12-12,2025-12-12,Population for Bangladesh,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:38:35-05,1,2,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLALA148NRUG,2025-12-12,2025-12-12,Population for Albania,1970-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:22-06,1,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLSAA148NRUG,2025-12-12,2025-12-12,Population for Saudi Arabia,1970-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:30:27-06,1,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLCMA148NRUG,2025-12-12,2025-12-12,Population for Cameroon,1960-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:20-06,1,3,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLLYA173NUPN,2025-12-12,2025-12-12,Population for Libya,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:29:30-05,1,1,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLBRA148NRUG,2025-12-12,2025-12-12,Population for Brazil,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:21-06,1,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLTTA173NUPN,2025-12-12,2025-12-12,Population for Trinidad and Tobago,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:46:03-05,1,1,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLBYA173NUPN,2025-12-12,2025-12-12,Population for Belarus,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:31:42-05,1,1,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLARA148NRUG,2025-12-12,2025-12-12,Population for Argentina,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:32:22-06,1,2,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTTLTRA173NUPN,2025-12-12,2025-12-12,Population for Turkey,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:26:40-05,1,1,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLINA148NRUG,2025-12-12,2025-12-12,Population for India,1950-01-01,2019-01-01,Annual,A,Millions of Persons,Mil. of Persons,Not Seasonally Adjusted,NSA,2021-01-21 13:29:49-06,1,3,"Source ID: pop
+
+When using these data in your research, please make the following reference: Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), ""The Next Generation of the Penn World Table"" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+
+For more information, see http://www.rug.nl/research/ggdc/data/pwt/."
+POPTT2CNA173NUPN,2025-12-12,2025-12-12,Population for China,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:44:21-05,1,3,"This data series refers to China Version 2. Two estimates are provided for China and their rationale is discussed in the Detailed Documentation. One estimate is based mostly on ICP 2005 and national growth statistics and is labeled China1. China1 does incorporate a productivity adjustment that has been applied to all countries in ICP 2005. China2 also adjusts for the urban character of its prices in ICP 2005 and also adjusts the growth rate.
+
+For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"
+POPTTLUZA173NUPN,2025-12-12,2025-12-12,Population for Uzbekistan,1950-01-01,2010-01-01,Annual,A,Thousands,Thous.,Not Seasonally Adjusted,NSA,2012-08-31 14:41:49-05,1,1,"For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1
+
+Source Indicator: POP"

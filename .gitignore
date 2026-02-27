@@ -1,0 +1,75 @@
+﻿# Hidden files (dotfiles)
+.*
+
+# Keep this .gitignore file
+!.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data files
+*.csv
+*.json
+*.xlsx
+
+cia_reading_room_scraper/outputs/cia_rdp96.json
+
+state_department/output/germany_data.csv
+
+state_department/output/state_dep_tables_to_20251212.json
+
+state_department/output/state_dep_tables_with_posts_to_20251212.json
+
+# Data files
+*.csv
+*.json
+*.xlsx
+
+# Data files
+*.csv
+*.json
+*.xlsx
+
+# Problematic CSV directory
+state_department/output/layer_2/*.csv
+
+# Data files
+*.csv
+*.json
+*.xlsx
+
+# Data files
+*.csv
+*.json
+*.xlsx
+
+# JSON data files
+*.json
+
+# CSV data files
+*.csv
