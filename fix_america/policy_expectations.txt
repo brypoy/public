@@ -33,6 +33,6 @@ HOW:
 
 ExPECTATION: 
     1. The treasury bills become the inflation rate;
-    2. state dollars are values at the rate at which they beat inflation (how well does the state employ the Citizen)
+    2. dollars are valued at the rate at which they beat inflation (how well does the state employ the Citizen)
     3. technological advancements realized in middle thru high school grow rapidly; bolstering commercial trade
-    4. beautiful public spaces anchored on the schools increases the plenty of "blue zones" and general health
+    4. beautiful public spaces anchored on the schools increases "blue zones" and general health
