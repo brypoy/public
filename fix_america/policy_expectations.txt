@@ -30,10 +30,8 @@ HOW:
     woes of the family will bleed into the public light naturally, spawning solutions and more movement. Walkable spaces being key.
 
 
-ExPECTATION: 
-    1. The treasury bills become the inflation rate;
-    2. dollars are valued at the rate at which they beat inflation (how well does the state employ the Citizen);
-    3. technological advancements realized in middle thru high school grow rapidly; bolstering commercial trade;
-    4. beautiful public spaces anchored on the schools increases "blue zones" and general health;
-    5. technological responsibility is transferred to the local school ecosystem with teachers being local residents
+EXPECTATION: 
++   1. technological advancements realized in middle thru high school grow rapidly; bolstering commercial trade;
+    2. beautiful public spaces anchored on the schools increases "blue zones" and general health;
+    3. technological responsibility is transferred to the local school ecosystem with teachers being local residents
     with a vested interest; all facets of education become much more interesting when wrapped in competition.
